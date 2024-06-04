@@ -1,0 +1,22 @@
+{
+  "name": "ss-icon",
+  "version": "1.0.0",
+  "description": "Add icons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SharadShakya9/ss-npm-icon-package.git"
+  },
+  "keywords": [
+    "SS-ICON"
+  ],
+  "author": "Sharad Shakya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SharadShakya9/ss-npm-icon-package/issues"
+  },
+  "homepage": "https://github.com/SharadShakya9/ss-npm-icon-package#readme"
+}
